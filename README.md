@@ -1,1 +1,1 @@
-# speedy-cuber
+# speedy-cuber website 
